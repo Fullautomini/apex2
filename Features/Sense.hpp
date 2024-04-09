@@ -411,7 +411,7 @@ struct Sense
 			ImGuiStyle &style = ImGui::GetStyle();
 			if (Features::Watermark::Name)
 			{
-				ImGui::TextColored(style.Colors[ImGuiCol_Text], "zap-client");
+				ImGui::TextColored(style.Colors[ImGuiCol_Text], "Apex Client");
 			}
 
 			ImGui::SameLine();
