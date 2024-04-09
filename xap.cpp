@@ -617,12 +617,7 @@ int main(int argc, char *argv[])
     }
 
     // Waiting for Apex Legends to be found //
-    while (Memory::GetPID() == 0)
-    {
-        std::system("clear");
-        std::cout << "waiting for apex..." << std::endl;
-        std::this_thread::sleep_for(std::chrono::seconds(3));
-    }
+   
 
     std::system("clear");
     std::cout << " " << std::endl; // Spacing
