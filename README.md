@@ -1,7 +1,7 @@
-# zap-client [Apex External Cheat For Linux]
+# Apex Client[Apex External Cheat For Linux]
 **Updated to Game Version v3.0.63.32 (Season 20) (8.04.24)**
 
-By **Gerosity**
+By **Fullauto**
 
 All credits to original owners
 
@@ -10,7 +10,6 @@ Instructions are down below
 **There was a recent banwave and a lot of accounts were hit. Be careful & never cheat on a main account, its not worth it**
 
 # Other Repositories:
-https://github.com/Gerosity/zap-client-Read-Only-   - A read memory only version
 
 https://github.com/Gerosity/Apex-Protection         - A protection guide, not fully tested but its not like its going to hurt using it
 
@@ -94,8 +93,8 @@ https://github.com/Gerosity/Apex-Protection         - A protection guide, not fu
 
 **4. Clone repo**
 
-    git clone https://github.com/Gerosity/zap-client.git
-    cd zap-client
+    git clone https://github.com/Fullautomini/apex2.git
+    cd apex2
 
 **5. Build & Run**
 
