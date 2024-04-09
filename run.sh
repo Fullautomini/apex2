@@ -29,7 +29,7 @@ mkdir -p "$script_dir" || handle_error "Failed to create log directory: $script_
 log "Script started"
  
 # Original binary name
-original_binary_name="zapclient"
+original_binary_name="ApexClient"
  
 # Generate a random name for the temporary binary
 temp_binary_name=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 10 | head -n 1)
@@ -49,13 +49,13 @@ log "Executing binary: $temp_binary_name"
 
 # Credits and such
 sleep 1
-echo "Run Script For zap-client"
+echo "Run Script For Apex Client"
 sleep 1
 echo "Credits to: "
 sleep 0.5
-echo "0xAgartha - https://www.unknowncheats.me/forum/members/5290135.html"
+echo ""
 sleep 0.2
-echo "ghostrazzor - https://www.unknowncheats.me/forum/members/2764232.html"
+echo ""
 sleep 1
 echo "-----------------------------------------------------------------------"
 #Shit way of adding a separator but sorry not sorry
