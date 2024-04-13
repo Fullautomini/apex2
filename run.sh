@@ -29,7 +29,7 @@ mkdir -p "$script_dir" || handle_error "Failed to create log directory: $script_
 log "Script started"
  
 # Original binary name
-original_binary_name="ApexClient"
+original_binary_name="VisualsApex"
  
 # Generate a random name for the temporary binary
 temp_binary_name=$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 10 | head -n 1)
